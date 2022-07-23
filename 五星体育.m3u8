@@ -1,5 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育 (25fps 4mbps)
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育 (A 25fps 4mbps)
 http://121.51.74.85/keonline.shanghai.liveplay.qq.com/live/program/live/ssty/4000000/mnf.m3u8
-#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育 (25fps 4mpbs)
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育 (B 25fps 4mbps)
 http://140.207.241.2:8080/live/program/live/ssty/4000000/mnf.m3u8
+#EXTINF:-1 tvg-id="1987" tvg-name="五星体育频道" tvg-logo="http://epg.51zmt.top:8000/tb1/qt/wuxingtiyu.png" group-title="上海",五星体育 (C 25fps 4mbps)
+http://aliyun4a-live.bestvcdn.com.cn/live/program/Dbestvapp-mobile-v4.live.bestvcdn.com.cnD/_fjehrcyr_key344B16C6DE763B3D1BF961FE5039A71B34784E88455914CC4ED6F6DB5076A73BEC635ED7F264083E70857698892B3539551F42B3C818B140D134D845D5E05EA9A931E3F430D2422EB01747092BAE38B12D51E83D4D7433FC9AEBC990174BF9F794C36691FCE701DE6F42143769BE79EC_/live/ssty/4000000/d1.m3u8
